@@ -6,6 +6,7 @@ This page contains files for our CPSC 481 project.
 Victor Lieu <br />
 Jason Dam <br />
 Saurabh Kaushal <br />
+ZiHao Guan <br />
 
 
 ### Project Files
