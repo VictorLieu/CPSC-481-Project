@@ -12,4 +12,7 @@ ZiHao Guan <br />
 ### Project Files
 <a href="team contract.PDF">P0: Team Contract</a> <br />
 <a href="481P1.pdf">P1: User Research</a> <br />
-<a href="CPSC481P2.pdf">P2: Ideation and Lo-fi prototypes</a> 
+<a href="CPSC481P2.pdf">P2: Ideation and Lo-fi prototypes</a>  <br />
+<a href="HiFi Prototype.pdf">P3: P3: Hi-fi prototypes and heuristic evaluations</a> 
+
+
